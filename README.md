@@ -9,6 +9,9 @@ A list of papers on machine learning systems and productionizing. Please submit 
   3. [Open Sources Tools](#open-source)
 
 ## <a name='considerations'> Considerations
+* [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems)(2015)
+* [What’s your ML test score? A rubric for ML production systems](https://research.google.com/pubs/pub45742.html)(2016)
+* [Beyond the technical challenges for deploying Machine Learning solutions in a software company](https://arxiv.org/abs/1708.02363)(2017)
 
 ## <a name='enterprise'> Enterprise Approaches
 
