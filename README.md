@@ -8,6 +8,7 @@ A list of papers on machine learning systems and productionizing. Please submit 
   2. [Enterprise Approaches](#enterprise)
   3. [Open Sources Tools](#open-source)
   4. [Conferences](#conferences)
+  5. [Supporting Tools](#tools)
 
 ## <a name='considerations'> Considerations
 * [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems) (2015)
@@ -34,3 +35,6 @@ A list of papers on machine learning systems and productionizing. Please submit 
 * [Machine Learning Systems Workshop at NIPS](http://learningsys.org/nips17/)(2017)
 * [SysML](http://www.sysml.cc/2018/) (2018)
 * [SysML](http://www.sysml.cc/) (2019)
+
+## <a name='tools'> Supporting Tools
+* [Cookiecutter Data Science: *A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.*](https://drivendata.github.io/cookiecutter-data-science/)
