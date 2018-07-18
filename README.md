@@ -1,5 +1,5 @@
 # Machine Learning Systems and Productionizing Readings
-A list of papers on machine learning systems and productionizing. Please submit a pull request if you would like to add a paper. This is by no means exhaustive or meant to be a definitive list of this topic. I am simply compiling a list of papers I have read and would love to hear from other people interested in the same topic.
+A list of papers on machine learning systems and links to projects for managing the ML process and deploying models. Please submit a pull request if you would like to contribute. This is by no means exhaustive or meant to be a definitive list on this topic. I am simply compiling a list of papers I have read ans sources I've come across. I would love to hear from other people interested in the same topic.
 
 
 ## <a name='TOC'>Table of Contents</a>
