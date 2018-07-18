@@ -21,10 +21,10 @@ A list of papers on machine learning systems and productionizing. Please submit 
 * [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf) (2017)
 
 ## <a name='open-source'> Open Sources Tools
-* KeystoneML: Optimizing Pipelines for Large-Scale Advanced Analytics(https://arxiv.org/abs/1610.09451) (2016)
-> * [KeystoneML Website](http://keystone-ml.org/)
+* [KeystoneML: Optimizing Pipelines for Large-Scale Advanced Analytics](https://arxiv.org/abs/1610.09451) (2016)
+    * [KeystoneML Website](http://keystone-ml.org/)
 * [Clipper: A Low-Latency Online Prediction Serving System](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw) (2017)
-> * [Clipper Website](http://clipper.ai/)
+    * [Clipper Website](http://clipper.ai/)
 
 ## <a name='confrences'> Conferences
 * [Machine Learning Systems Workshop at NIPS](http://learningsys.org/2015/) (2015)
