@@ -21,6 +21,8 @@ A list of papers on machine learning systems and productionizing. Please submit 
 * [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf) (2017)
 
 ## <a name='open-source'> Open Sources Tools
+* Keystone
+* Clipper
 
 ## <a name='confrences'> Conferences
 * [Machine Learning Systems Workshop at NIPS](http://learningsys.org/2015/) (2015)
