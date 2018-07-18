@@ -40,3 +40,4 @@ A list of papers on machine learning systems and productionizing. Please submit 
 
 ## <a name='tools'> Supporting Tools
 * [Cookiecutter Data Science: *A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.*](https://drivendata.github.io/cookiecutter-data-science/)
+* [plumber: *An R package that converts your existing R code to a web API using a handful of special one-line comments*](https://www.rplumber.io/)
