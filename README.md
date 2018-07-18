@@ -26,6 +26,8 @@ A list of papers on machine learning systems and productionizing. Please submit 
     * [KeystoneML Website](http://keystone-ml.org/)
 * [Clipper: A Low-Latency Online Prediction Serving System](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw) (2017)
     * [Clipper Website](http://clipper.ai/)
+* [MLFlow](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html) (2018)
+    * [MLFlow Website](https://mlflow.org/)
 
 ## <a name='confrences'> Conferences
 * [Machine Learning Systems Workshop at NIPS](http://learningsys.org/2015/) (2015)
