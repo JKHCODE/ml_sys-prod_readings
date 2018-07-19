@@ -1,4 +1,4 @@
-# Machine Learning Systems, Workflow Managament and Model Deployment
+# Machine Learning Systems, Workflow Management and Model Deployment
 A list of papers on machine learning systems and links to projects for managing the ML process and deploying models. Please submit a pull request if you would like to contribute. This is by no means exhaustive or meant to be a definitive list on this topic. I am simply compiling a list of papers I have read ans sources I've come across. I would love to hear from other people interested in the same topic.
 n
 
