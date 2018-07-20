@@ -5,7 +5,7 @@ A list of papers on machine learning systems and links to projects for managing 
 
   1. [Considerations](#considerations)
   2. [Enterprise Approaches](#enterprise)
-  3. [Open Sources Tools](#open-source)
+  3. [Open Sources Approaches](#open-source)
   4. [Conferences](#conferences)
   5. [Supporting Tools](#tools)
 
@@ -20,7 +20,7 @@ A list of papers on machine learning systems and links to projects for managing 
 * [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/) (2017)
 * [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf) (2017)
 
-## <a name='open-source'> Open Sources Tools
+## <a name='open-source'> Open Sources Approaches
 * [KeystoneML: Optimizing Pipelines for Large-Scale Advanced Analytics](https://arxiv.org/abs/1610.09451) (2016)
     * [KeystoneML Website](http://keystone-ml.org/)
 * [Clipper: A Low-Latency Online Prediction Serving System](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw) (2017)
