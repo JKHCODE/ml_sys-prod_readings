@@ -13,12 +13,13 @@ A list of papers on machine learning systems and links to projects for managing 
 * [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems) (2015)
 * [What’s your ML test score? A rubric for ML production systems](https://research.google.com/pubs/pub45742.html) (2016)
 * [Beyond the technical challenges for deploying Machine Learning solutions in a software company](https://arxiv.org/abs/1708.02363) (2017)
+* [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/)(2019)
 
 ## <a name='enterprise'> Enterprise Approaches
 * [Productionizing Machine Learning Pipelines at Scale](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxtbHN5czIwMTZ8Z3g6MjE3ZDYxM2I0YTExZDlh) (2016)
 * [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](http://www.kdd.org/kdd2017/papers/view/tfx-a-tensorflow-based-production-scale-machine-learning-platform) (2017)
 * [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/) (2017)
-* [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf) (2017)
+* [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](https://research.fb.com/publications/applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective/) (2017)
 
 ## <a name='open-source'> Open Sources Approaches
 * [KeystoneML: Optimizing Pipelines for Large-Scale Advanced Analytics](https://arxiv.org/abs/1610.09451) (2016)
