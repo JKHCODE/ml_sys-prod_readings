@@ -38,7 +38,7 @@ A list of papers on machine learning systems and links to projects for managing 
 * [SysML](http://www.sysml.cc/2018/) (2018)
 * [SysML](http://www.sysml.cc/) (2019)
 * [OpML](https://www.usenix.org/conference/opml19/program) (2019)
-* [MLOps NYC] (https://www.mlopsnyc.com/)
+* [MLOps NYC](https://www.mlopsnyc.com/)
 
 ## <a name='tools'> Supporting Tools
 * [Cookiecutter Data Science: *A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.*](https://drivendata.github.io/cookiecutter-data-science/)
