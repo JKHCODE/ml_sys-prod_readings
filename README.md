@@ -1,5 +1,5 @@
 # Machine Learning Systems, Workflow Management and Model Deployment
-A list of papers on machine learning systems and links to projects for managing the ML process and deploying models. Please submit a pull request if you would like to contribute. This is by no means exhaustive or meant to be a definitive list on this topic. I am simply compiling a list of papers I have read ans sources I've come across. I would love to hear from other people interested in the same topic.
+A list of papers on machine learning systems and links to projects for managing the ML process and deploying models. Please submit a pull request if you would like to contribute. This is by no means exhaustive or meant to be a definitive list on this topic. I am simply compiling a list of papers I have read and sources I have come across. I would love to hear from other people interested in the same topic.
 
 ## <a name='TOC'>Table of Contents</a>
 
@@ -21,7 +21,7 @@ A list of papers on machine learning systems and links to projects for managing 
 * [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/) (2017)
 * [Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective](https://research.fb.com/publications/applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective/) (2017)
 
-## <a name='open-source'> Open Sources Approaches
+## <a name='open-source'> Open Source Approaches
 * [KeystoneML: Optimizing Pipelines for Large-Scale Advanced Analytics](https://arxiv.org/abs/1610.09451) (2016)
     * [KeystoneML Website](http://keystone-ml.org/)
 * [Clipper: A Low-Latency Online Prediction Serving System](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw) (2017)
