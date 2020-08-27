@@ -24,6 +24,7 @@ A list of papers on machine learning systems and links to projects for managing 
 ## <a name='open-source'> Open Source Approaches
 * [KeystoneML: Optimizing Pipelines for Large-Scale Advanced Analytics](https://arxiv.org/abs/1610.09451) (2016)
     * [KeystoneML Website](http://keystone-ml.org/)
+* [ModelDB: a system for machine learning model management](https://dl.acm.org/doi/10.1145/2939502.2939516) (2016)
 * [Clipper: A Low-Latency Online Prediction Serving System](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw) (2017)
     * [Clipper Website](http://clipper.ai/)
 * [MLFlow](https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html) (2018)
@@ -35,10 +36,11 @@ A list of papers on machine learning systems and links to projects for managing 
 * [Machine Learning Systems Workshop at NIPS](https://sites.google.com/site/mlsysnips2016/) (2016)
 * [Workshop on AI Systems SOSP](http://learningsys.org/sosp17/) (2017)
 * [Machine Learning Systems Workshop at NIPS](http://learningsys.org/nips17/)(2017)
-* [SysML](http://www.sysml.cc/2018/) (2018)
-* [SysML](http://www.sysml.cc/) (2019)
-* [OpML](https://www.usenix.org/conference/opml19/program) (2019)
 * [MLOps NYC](https://www.mlopsnyc.com/)
+* [MLSys](http:/s/www.mlsys.org)
+* [OpML](https://www.usenix.org/conference/opml19/program) (2019)
+* [OpML](https://www.usenix.org/conference/opml20/conference-program) (2020)
+
 
 ## <a name='tools'> Supporting Tools
 * [Cookiecutter Data Science: *A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.*](https://drivendata.github.io/cookiecutter-data-science/)
